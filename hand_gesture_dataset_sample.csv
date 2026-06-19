@@ -1,0 +1,5 @@
+image_path,label
+leapGestRecog/00/01_palm/frame_00_01_0001.png,palm
+leapGestRecog/00/01_palm/frame_00_01_0002.png,palm
+leapGestRecog/00/02_l/frame_00_02_0001.png,l
+leapGestRecog/00/03_fist/frame_00_03_0001.png,fist
